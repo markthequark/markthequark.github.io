@@ -1,6 +1,6 @@
 p {
     font-family: Tahoma;
-    font-size: 16;
+    font-size: 20;
     text-align: left;
     padding-left: 12;
     text-indent: -10;
@@ -93,7 +93,7 @@ sender_p {
 
 bubble {
 	font-family: Tahoma;
-	font-size: 18px;
+	font-size: 20px;
 	color: #312D24;
 	padding-left: -15;
 	text-align: left;

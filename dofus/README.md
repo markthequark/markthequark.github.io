@@ -14,10 +14,12 @@ Original guide from Ankama Games:
     <author> -> <author>Mark</author>
 </theme>
 ```
-(Example change, will update over time)  
 `chat.css `
 ```css
 p {
-  font: 18 -> 20;
+  font-size: 16 -> 20;
+}
+bubble {
+  font-size: 18px -> 20px;
 }
 ```
