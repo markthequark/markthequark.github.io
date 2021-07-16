@@ -17,5 +17,5 @@ jobs:
         echo test, and deploy your project.
     - name: Build zip
       run: |
-        cd dofus
-        zip darkStone3.zip darkStone3
+        cd dofus,
+        zip darkStone3.zip darkStone3.
