@@ -1,6 +1,6 @@
 p {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #E7DEDA;
 	text-align: left;
 	font-weight: bold;
@@ -8,7 +8,7 @@ p {
 
 normal {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #E7DEDA;
 	text-align: left;
 	font-weight: bold;
@@ -16,7 +16,7 @@ normal {
 
 center {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #E7DEDA;
 	font-weight: bold;
 	text-align: center;
@@ -24,7 +24,7 @@ center {
 
 spell {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #ffac4b;
 	text-align: left;
 	font-weight: bold;
@@ -32,7 +32,7 @@ spell {
 
 etheral {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #8ab7ee;
 	text-align: left;
 	font-weight: bold;
@@ -40,7 +40,7 @@ etheral {
 
 itemset {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #feb336;
 	text-align: left;
 	font-weight: bold;
@@ -48,7 +48,7 @@ itemset {
 
 shield {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #9966CC;
 	font-weight: bold;
 }

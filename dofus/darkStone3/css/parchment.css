@@ -1,6 +1,6 @@
 p {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #3F3932;
 	text-align: justify;
     font-weight: normal;
@@ -8,7 +8,7 @@ p {
 
 left {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #3F3932;
 	text-align: left;
     font-weight: normal;
@@ -16,7 +16,7 @@ left {
 
 right {
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 16px;
     color: #3F3932;
     text-align: right;
     font-weight: normal;
@@ -24,7 +24,7 @@ right {
 
 smallleftmedium {
 	font-family: Roboto;
-	font-size: 19px;
+	font-size: 15px;
 	color: #3F3932;
 	text-align: left;
     font-weight: medium;
@@ -32,7 +32,7 @@ smallleftmedium {
 
 rightbold {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #3F3932;
 	text-align: right;
     font-weight: bold;
@@ -56,7 +56,7 @@ scrolltitle{
 
 scrolltext{
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 16px;
     color: #765e44;
     font-weight: normal;
     text-align: justify;
@@ -65,7 +65,7 @@ scrolltext{
 
 scrolllink{
     font-family: Roboto;
-    font-size: 22px;
+    font-size: 18px;
     color: #deff00;
     font-weight: bold;
     text-align: center;

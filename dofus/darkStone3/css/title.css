@@ -26,21 +26,21 @@ shadowedcenter_center{
 }
 small {
 	font-family: RobotoCondensed;
-	font-size: 22px;
+	font-size: 18px;
 	color: #f8cd01;
 	font-weight: bold;
 	text-align: left;
 }
 smallright {
 	font-family: RobotoCondensed;
-	font-size: 22px;
+	font-size: 18px;
 	color: #f8cd01;
 	font-weight: bold;
 	text-align: right;
 }
 smallcenter {
 	font-family: RobotoCondensed;
-	font-size: 22px;
+	font-size: 18px;
 	color: #f8cd01;
 	font-weight: bold;
 	text-align: center;
@@ -81,29 +81,37 @@ oppositecenter {
 
 white {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 20px;
 	color: #c7c7c5;
 	font-weight: normal;
 	text-align: left;
 }
 whitemedium {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 20px;
 	color: #c7c7c5;
 	font-weight: medium;
 	text-align: left;
 }
 whitecenter {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 20px;
 	color: #c7c7c5;
 	font-weight: normal;
 	text-align: center;
 }
 
+whitemediumcenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: medium;
+	text-align: center;
+}
+
 purewhitemedium {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 20px;
 	color: #ffffff;
 	font-weight: medium;
 	text-align: left;
@@ -111,24 +119,35 @@ purewhitemedium {
 
 green {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 20px;
 	color: #deff00;
 	font-weight: normal;
 	text-align: left;
 }
 greenbold {
 	font-family: RobotoCondensed;
-	font-size: 24px;
+	font-size: 20px;
 	color: #deff00;
 	font-weight: bold;
 	text-align: left;
 }
 greencenter {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 20px;
 	color: #deff00;
 	font-weight: normal;
 	text-align: center;
+}
+
+shadowedgreencenter {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #deff00;
+	font-weight: normal;
+	text-align: center;
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle: 90;
 }
 
 gray {
@@ -141,21 +160,21 @@ gray {
 
 whitebold {
 	font-family: RobotoCondensed;
-	font-size: 24px;
+	font-size: 20px;
 	color: #e0e0de;
 	font-weight: bold;
 	text-align: left;
 }
 whiteboldcenter {
 	font-family: RobotoCondensed;
-	font-size: 24px;
+	font-size: 20px;
 	color: #e0e0de;
 	font-weight: bold;
 	text-align: center;
 }
 whiteboldright {
 	font-family: RobotoCondensed;
-	font-size: 24px;
+	font-size: 20px;
 	color: #e0e0de;
 	font-weight: bold;
 	text-align: right;
@@ -205,7 +224,7 @@ whitehugeboldcenter {
 
 itemset {
 	font-family: RobotoCondensed;
-	font-size: 24px;
+	font-size: 20px;
 	color: #feb336;
 	font-weight: bold;
 	text-align: left;
@@ -213,7 +232,7 @@ itemset {
 
 itemetheral {
 	font-family: RobotoCondensed;
-	font-size: 24px;
+	font-size: 20px;
 	color: #8ab7ee;
 	font-weight: bold;
 	text-align: left;
