@@ -17,7 +17,7 @@ jobs:
     - name: Build zip
       run: |
         cd dofus
-        zip darkStone3.zip darkStone3
+        zip -r darkStone3.zip darkStone3
     - name: Update version number
       run: |
         cd dofus
