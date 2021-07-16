@@ -16,8 +16,8 @@ jobs:
         fetch-depth: 0 # otherwise, will fail to push refs to dest repo
     - name: Build zip
       run: |
-        cd dofus
-        zip -r darkStone3.zip darkStone3/*
+        cd dofus/darkStone3
+        zip -r ../darkStone3.zip .
     - name: Update version number
       run: |
         cd dofus
