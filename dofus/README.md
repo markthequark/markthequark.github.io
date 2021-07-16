@@ -1,5 +1,5 @@
 # Custom Dofus theme.
- To use this theme, paste the following into settings > themes  
+ To use this theme, paste the following into options > themes  
 `https://markthequark.github.io/dofus/themes.json`
 
 Original guide from Ankama Games:  
