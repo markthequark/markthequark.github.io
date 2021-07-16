@@ -3,5 +3,9 @@
     <skinType>1</skinType>
     <description>darkStone with increased font size.</description>
     <previewUri>darkStonePreview.jpg</previewUri>
-	<author>Mark</author>
+    <author>Mark</author>
+    <version>1.4.9</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.60</dofusVersion> 
+    <creationDate>02/09/2016</creationDate> 
+    <modificationDate>16/07/2021</modificationDate> 
 </theme>
