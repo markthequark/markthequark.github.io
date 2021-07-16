@@ -1,13 +1,13 @@
 p {
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 16px;
     color: #c7c7c5;
     text-align: left;
 }
 
 endbutton {
     font-family: Roboto;
-    font-size: 19px;
+    font-size: 15px;
     color: #2f2f25;
     font-stretch: condensed;
     font-weight: normal;
@@ -16,7 +16,7 @@ endbutton {
 
 skip {
     font-family: Roboto;
-    font-size: 18px;
+    font-size: 14px;
     color: #6d6d6d;
     font-weight: lighter;
     font-style: italic;
@@ -25,7 +25,7 @@ skip {
 
 skipover {
     font-family: Roboto;
-    font-size: 18px;
+    font-size: 14px;
     color: #ffffff;
     font-weight: normal;
     text-align: left;

@@ -1,6 +1,6 @@
 p {
 	font-family: Verdana;
-	font-size: 24px;
+	font-size: 20px;
 	color: #3b362b;
 	text-align: left;
 }
@@ -15,7 +15,7 @@ darkcenterbig_dark { text-align: center; }
 
 light {
 	font-family: Tahoma;
-	font-size: 24px;
+	font-size: 20px;
 	color: #ffffff;
 	text-align: left;
 }

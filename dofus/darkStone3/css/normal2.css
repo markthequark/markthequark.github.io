@@ -1,7 +1,7 @@
-/*-------------------- P Style --------------------*/
+﻿/*-------------------- P Style --------------------*/
 p {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #c7c7c5;
 	text-align: justify;
     font-weight: normal;
@@ -18,6 +18,9 @@ bold_p {
 	text-align: left;
 	font-weight: bold;
 }
+leftmedium_p {
+	font-size: 15px;
+}
 boldcenter_p {
 	text-align: center;
 	font-weight: bold;
@@ -25,6 +28,13 @@ boldcenter_p {
 boldright_p {
 	text-align: right;
 	font-weight: bold;
+}
+darkerbold_p {
+	font-family: Roboto;
+	font-size: 14;
+	color: #696968;
+	font-weight: bold;
+	text-align: justify;
 }
 shadowedcenter_center {
     shadow-distance: 1;
@@ -51,7 +61,7 @@ italicdisabled_p {
 /*-------------------- condensed Style --------------------*/
 condensedbold {
 	font-family: RobotoCondensed;
-	font-size: 20px;
+	font-size: 16px;
 	color: #c7c7c5;
 	font-weight: bold;
 	text-align: justify;
@@ -64,6 +74,12 @@ condensedboldcentert_condensedbold {
     text-align: center;
 }
 
+whitecondensedboldleft_condensedbold {
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 20px;
+}
+
 whitecondensedboldright_condensedbold {
 	color: #e0e0de;
 	text-align: right;
@@ -72,7 +88,7 @@ whitecondensedboldright_condensedbold {
 whitecondensedboldcenter_condensedbold {
 	color: #c8c8c8;
 	text-align: center;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 whitecondensedboldshadow_condensedbold {
@@ -88,7 +104,7 @@ whitecondensedboldshadow_condensedbold {
 
 extrawhitebigcondensedbold_condensedbold {
 	color: #ffffff;
-	font-size: 22px;
+	font-size: 18px;
 }
 
 extrawhitebigcondensedboldright_extrawhitebigcondensedbold {
@@ -128,16 +144,29 @@ darkboldcenter_darkbold { text-align: center; }
 /*-------------------- brown Style --------------------*/
 browncondensedboldcenter {
 	font-family: RobotoCondensed;
-	font-size: 20px;
+	font-size: 16px;
 	color: #3c381b;
 	font-weight: bold;
 	text-align: center;
 }
 
+/*-------------------- blue Style --------------------*/
+
+blue {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #22f7fd;
+	text-align: justify;
+}
+
+blueright_blue{
+	text-align: right;
+}
+
 /*-------------------- green Style --------------------*/
 green {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #deff00;
 	text-align: justify;
 }
@@ -158,28 +187,49 @@ greenboldcenter_p {
 /*-------------------- orange Style --------------------*/
 orange {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #ebc304;
 	text-align: justify;
 }
 orangeleft_orange { text-align: left; }
+orangeleftbold_orange { text-align: left; font-weight: bold;}
 orangeright_orange { text-align: right; }
 orangecenter_orange { text-align: center; }
+bigorangeleft_orange { text-align: left; font-size: 18px; }
+bigboldorangeleft_bigorangeleft { font-weight: bold }
+orangecentershadow_orange {
+	text-align: center;
+	shadow-angle: 360;
+	shadow-distance: 0;
+	shadow-strength: 5;
+	shadow-color: #36382d
+}
 
 /*-------------------- red Style --------------------*/
 red {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #eb0000;
 	text-align: justify;
 }
 redcenter_red { text-align: center; }
 redright_red { text-align: right; }
+redboldcenterwhiteshadow {
+	font-family: Roboto;
+	font-size: 32px;
+	color: #eb0000;
+	text-align: justify;
+	font-weight: bold;
+	shadow-angle: 360;
+	shadow-distance: 0;
+	shadow-strength: 5;
+	shadow-color: #ffffff
+}
 
 /*-------------------- white Style --------------------*/
 white{
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #e0e0de;
 }
 whitebold_white {
@@ -196,7 +246,7 @@ extrawhiteboldcenter_extrawhitebold { text-align: center; }
 extrawhitebig{
 	font-family: Roboto;
 	color: #ffffff;
-	font-size: 20px;
+	font-size: 16px;
 }
 extrawhitebigleft_extrawhitebig {
 	text-align: left;
@@ -223,7 +273,7 @@ npcdialoganswerover_p {
 /*-------------------- Misc Style --------------------*/
 boldcenterogrine {
 	font-family: Roboto;
-	font-size: 22px;
+	font-size: 18px;
 	color: #058B92;
 	font-weight: bold;
 	text-align: center;
@@ -232,19 +282,15 @@ boldcenterogrine {
 
 p4center {
 	font-family: Roboto;
-	font-size: 22px;
+	font-size: 18px;
 	color: #BBBBBB;
 	text-align: center;
 	letterSpacing: 0.3;
 }
-/*--------------------- Forgemagie style --------------*/
-smithmagicexo {color:#658fc4;}
-smithmagicfail {color:#cb685e;}
-smithmagicsuccess {color:#52ae3f;}
 /*--------------------- Suivi de quête ---------------*/
 questtitle {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #f8cd01;
 	text-align: left;
 	shadow-distance: 1;
@@ -252,7 +298,7 @@ questtitle {
 questtitlecenter_questtitle { text-align: center; }
 questobjective {
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 16px;
 	color: #ffffff;
 	text-align: left;
     font-weight: normal;
@@ -262,9 +308,33 @@ questobjective {
 seemore_questobjective {color:#d7d7d7;}
 questfinished_p {color:#e0e0de;}
 questlevel_p {
-	font-size: 18px;
+	font-size: 14px;
 	text-align: right;
 }
 spellobtained_greenboldcenter_p {
-    font-size: 24px;
+    font-size: 20px;
+}
+
+hyperlink {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #deff00;
+}
+
+hyperlinkright {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #deff00;
+	text-align: right;
+}
+
+hyperlinkcenter {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #deff00;
+	text-align: center;
+}
+
+hyperlink:hover {
+	color: #f2fabd;
 }

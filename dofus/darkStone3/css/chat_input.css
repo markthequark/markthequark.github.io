@@ -6,7 +6,7 @@
 /* Alert TODO */
 p {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -17,7 +17,7 @@ p {
 /* Global */
 p0 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     leading: -2;
     color: #f2f2f2;
@@ -26,7 +26,7 @@ p0 {
 /* Team */
 p1 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -37,7 +37,7 @@ p1 {
 /* Guild */
 p2 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -48,7 +48,7 @@ p2 {
 /* Alliance */
 p3 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -59,7 +59,7 @@ p3 {
 /* Party */
 p4 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -70,7 +70,7 @@ p4 {
 /* Sales TODO */
 p5 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -81,7 +81,7 @@ p5 {
 /* Seek TODO */
 p6 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -92,7 +92,7 @@ p6 {
 /* Noob TODO */
 p7 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -103,7 +103,7 @@ p7 {
 /* Admin TODO */
 p8 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -114,7 +114,7 @@ p8 {
 /* Private */
 p9 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -125,7 +125,7 @@ p9 {
 /* Info TODO */
 p10 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -136,7 +136,7 @@ p10 {
 /* FightLog TODO */
 p11 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -147,7 +147,7 @@ p11 {
 /* Pub */
 p12 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -158,7 +158,7 @@ p12 {
 /* Arena */
 p13 {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -169,7 +169,7 @@ p13 {
 /* Community */
 p14 {
 	font-family: Roboto;
-	font-size: 16px;
+	font-size: 12px;
 	text-align: left;
 	padding-left: 15;
 	text-indent: -10;
@@ -179,7 +179,7 @@ p14 {
 
 sender {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
     text-align: left;
     padding-left: 15;
     text-indent: -10;
@@ -190,7 +190,7 @@ sender {
 /* TODO */
 bubble {
     font-family: Tahoma;
-    font-size: 22px;
+    font-size: 18px;
     color: #312D24;
     padding-left: -15;
     text-align: left;
@@ -201,7 +201,7 @@ bubble {
 /* Alert */
 indentred {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
 	text-align: left;
 	padding-left: 25;
 	text-indent: -20;
@@ -212,7 +212,7 @@ indentred {
 /* Global */
 indent {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
 	text-align: left;
 	padding-left: 25;
 	text-indent: -20;
@@ -223,7 +223,7 @@ indent {
 /* Info */
 indentgreen {
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 12px;
 	text-align: left;
 	padding-left: 25;
 	text-indent: -20;

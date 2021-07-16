@@ -1,6 +1,6 @@
 p {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #E7DEDA;
 	text-align: center;
 	font-weight: bold;
@@ -8,7 +8,7 @@ p {
 
 #cssClass {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #E7DEDA;
 	text-align: center;
 	font-weight: bold;
@@ -16,7 +16,7 @@ p {
 
 red {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #ff0142;
 	text-align: center;
 	font-weight: bold;
@@ -24,7 +24,7 @@ red {
 
 green {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #66ff99;
 	text-align: center;
 	font-weight: bold;
@@ -32,7 +32,7 @@ green {
 
 blue {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #00ffff;
 	text-align: center;
 	font-weight: bold;
@@ -40,7 +40,7 @@ blue {
 
 orange {
 	font-family: Verdana;
-	font-size: 21px;
+	font-size: 17px;
 	color: #ffae00;
 	text-align: center;
 	font-weight: bold;
