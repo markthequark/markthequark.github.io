@@ -10,5 +10,17 @@
     "previewUrl": "https://markthequark.github.io/dofus/darkStone3.png",
     "creationDate": "02/09/2016",
     "modificationDate": "16/07/2021"
+  },
+  {
+    "author": "Mark",
+    "name": "DarkStoneBig",
+    "keyWords": "mark,custom,darkStone,increased,font,size",
+    "version": "1.0.0",
+    "dofusVersion": "2.62",
+    "description": "Dark stone theme with increased font size.",
+    "url": "https://markthequark.github.io/dofus/darkStoneBig.zip",
+    "previewUrl": "https://markthequark.github.io/dofus/darkStone3.png",
+    "creationDate": "12/02/2022",
+    "modificationDate": "12/02/2022"
   }
 ]
